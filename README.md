@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there🖐️! I am a frontend web developer.
+# 💫 Hi there🖐️! I am Maruf Hasan.
+I'm a frontend web developer.
 
 
 # 💻 Tech Stack:
