@@ -1,5 +1,5 @@
 # 💫 Hi there🖐️! I create websites!
-## I'm a frontend web developer. currently learnint Next.js
+## I'm a frontend web developer.
 
 
 # 💻 Tech Stack:
