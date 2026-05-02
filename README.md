@@ -14,10 +14,10 @@ I'm a passionate Full Stack Developer focused on building scalable, high-perform
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufhasan-dev&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufhasan-dev&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marufhasan-dev&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marufhasan-dev&theme=tokyonight" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=marufhasan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
