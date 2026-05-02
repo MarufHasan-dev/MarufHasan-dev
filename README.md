@@ -18,8 +18,8 @@ I'm a passionate Full Stack Developer focused on building scalable, high-perform
 ### 📊 GitHub Stats
 
 <p align="left">
-  <!-- Using Metrics as a stable alternative to the currently down github-readme-stats -->
-  <img src="https://metrics.lecoq.io/marufhasan-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FDhaka" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufhasan-dev&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marufhasan-dev&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="left">
