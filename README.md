@@ -3,8 +3,6 @@
 
 I'm a passionate Full Stack Developer focused on building scalable, high-performance web applications. I enjoy bridging the gap between elegant frontend design and robust backend architecture.
 
----
-
 ### 🚀 Tech Stack
 
 <p align="left">
@@ -12,8 +10,6 @@ I'm a passionate Full Stack Developer focused on building scalable, high-perform
     <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,postgres,prisma,tailwind,docker,mongodb,ts,git,githubactions" />
   </a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -25,15 +21,11 @@ I'm a passionate Full Stack Developer focused on building scalable, high-perform
   <img src="https://streak-stats.demolab.com/?user=marufhasan-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
 ### 📫 Connect with me
 
 - 💼 [LinkedIn](https://linkedin.com/in/maruf-hasan-dev)
 - 🌐 [Portfolio](https://marufhasan.dev)
 - 📧 [Email](mailto:marufdev.contact@gmail.com)
-
----
 
 <p align="center">
   <i>"Simple is better than complex."</i>
