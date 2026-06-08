@@ -1,17 +1,17 @@
 # Hey, I'm Maruf 👋
 
-I build full stack web applications — from clean, responsive frontends to scalable backend systems. I care about writing code that's simple, maintainable, and actually works well in production.
+I build full-stack web applications from clean, responsive frontends to scalable backend systems. I care about writing code that's simple, maintainable, and actually works well in production.
 
 #### What I work with
 
 **Frontend** — React, Next.js, Tailwind CSS, TypeScript  
-**Backend** — Node.js, Express.js, Prisma  
+**Backend** — Node.js, Express.js, Prisma, Python
 **Databases** — PostgreSQL, MongoDB  
 **Tools** — Docker, Git, GitHub Actions
 
 #### Currently
 
-- 🔨 Building production web apps as a full stack developer
+- 🔨 Building production web apps as a full-stack developer
 - 🌱 Always exploring better patterns and tools
 
 ---
