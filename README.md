@@ -20,7 +20,7 @@ I like my APIs resilient, my schemas typed, and my success messages earned. 🚀
 
 **Backend & Databases**
 
-`Node.js` · `Express.js · `REST APIs` · `PostgreSQL` · `Prisma` · `Redis` · `MongoDB`
+`Node.js` · `Express.js` · `REST APIs` · `PostgreSQL` · `Prisma` · `Redis` · `MongoDB`
 
 **Cloud & Infrastructure**
 
