@@ -24,11 +24,11 @@ I like my APIs resilient, my schemas typed, and my success messages earned. 🚀
 
 **Cloud & Infrastructure**
 
-Docker · Nginx · Google Cloud · Microsoft Azure · Vercel · Cloudflare
+`Docker` · `Nginx` · `Google Cloud` · `Microsoft Azure` · `Vercel` · `Cloudflare`
 
 **Tools & Integrations**
 
-Git · GitHub Actions · Zod · Contentful · Upstash · Neon · Twilio · Brevo
+`Git` · `GitHub Actions` · `Zod` · `Contentful` · `Upstash` · `Neon` ·` Twilio` · `Brevo`
 
 ---
 
