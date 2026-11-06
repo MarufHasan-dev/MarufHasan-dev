@@ -16,11 +16,11 @@ I like my APIs resilient, my schemas typed, and my success messages earned. 🚀
 
 **Languages & Frontend**
 
-TypeScript · JavaScript · React · Next.js · Tailwind CSS
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS`
 
 **Backend & Databases**
 
-Node.js · Express.js · REST APIs · PostgreSQL · Prisma · Redis · MongoDB
+`Node.js` · `Express.js · `REST APIs` · `PostgreSQL` · `Prisma` · `Redis` · `MongoDB`
 
 **Cloud & Infrastructure**
 
