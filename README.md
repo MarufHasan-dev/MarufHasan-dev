@@ -1,12 +1,14 @@
 # Hey, I'm Maruf 👋
 
-**Full-Stack Developer | Backend Enthusiast | Problem Solver**
+**Full-Stack Developer | Backend-focused Engineer**
 
-I build production-ready web applications, from polished user interfaces to resilient backend systems.
+[🌐 Portfolio](https://marufhasan.dev) · [📄 Résumé](https://marufhasan.dev/resume) · [💼 LinkedIn](https://linkedin.com/in/maruf-hasan-dev) · [📧 Email](mailto:marufdev.contact@gmail.com)
 
-My primary tools are **TypeScript, Next.js, Node.js, and PostgreSQL**. I enjoy turning complex requirements into practical software, designing APIs, and making sure everything keeps working when things don't go according to plan.
+I build full-stack web applications, from clean, responsive frontends to reliable backend systems.
 
-I like my APIs resilient, my schemas typed, and my success messages earned. 🚀
+I primarily work with **TypeScript, Next.js, Node.js, and PostgreSQL**. I enjoy designing APIs, solving backend challenges, and turning ideas into production-ready software.
+
+I like my code maintainable, my systems resilient, and my success messages earned. 🚀
 
 📍 Dhaka, Bangladesh · Open to full-time and remote opportunities.
 
