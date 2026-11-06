@@ -30,7 +30,7 @@ I like my code maintainable, my systems resilient, and my success messages earne
 
 **Tools & Integrations**
 
-`Git` · `GitHub Actions` · `Zod` · `Contentful` · `Upstash` · `Neon` ·` Twilio` · `Brevo`
+`Git` · `GitHub Actions` · `Zod` · `Contentful` · `Upstash` · `Neon` · `Twilio` · `Brevo`
 
 ---
 
