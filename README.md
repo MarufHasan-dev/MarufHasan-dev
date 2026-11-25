@@ -1,8 +1,8 @@
-# Hey, I'm Maruf 👋
+# Maruf Hasan 👋
 
-**Full-Stack Developer | Backend-focused Engineer**
+**Backend-Focused Full-Stack Developer in Dhaka, Bangladesh**
 
-[🌐 Portfolio](https://marufhasan.dev) · [📄 Résumé](https://marufhasan.dev/resume) · [💼 LinkedIn](https://linkedin.com/in/maruf-hasan-dev) · [📧 Email](mailto:marufdev.contact@gmail.com)
+[🌐 Portfolio](https://marufhasan.dev) · [📄 Résumé](https://marufhasan.dev/resume) · [✍️ Blog](https://marufhasan.dev/blog) · [💼 LinkedIn](https://linkedin.com/in/maruf-hasan-dev) · [📧 Email](mailto:marufdev.contact@gmail.com)
 
 I build full-stack web applications, from clean, responsive frontends to reliable backend systems.
 
@@ -85,7 +85,7 @@ A team project where I owned the blog and CMS system.
 
 I also enjoy contributing to projects beyond my own repositories.
 
-**[Odysseus](https://github.com/odysseus-dev/odysseus)** — An open-source, self-hosted AI workspace.
+**[Odysseus](https://github.com/odysseus-dev/odysseus)**: an open-source, self-hosted AI workspace.
 
 I've contributed features, integrations, and reliability improvements. So far, I've had **5 pull requests merged**, including:
 
