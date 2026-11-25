@@ -126,9 +126,9 @@ I'm open to discussing full-time opportunities, interesting projects, and engine
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufhasan-dev&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarufHasan-dev&theme=tokyonight" alt="GitHub Profile Summary" />
 
-<img src="https://streak-stats.demolab.com/?user=marufhasan-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=MarufHasan-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </details>
 
